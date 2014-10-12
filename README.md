@@ -16,6 +16,6 @@ Using this pattern scheme a koch snowflake's splitting pattern would be {{0.3333
 Useage
 =================
 
-This program can either be used in the processing IDE (found <a href="https://www.processing.org/download/">here<\a>) or as an exported project from the IDE. I recommend the export despite the fact that rendering in the IDE is faster, because for some stupid reason the IDE doesn't support printing carriage returns.
+This program can either be used in the processing IDE (found <a href="https://www.processing.org/download/">here</a>) or as an exported project from the IDE. I recommend the export despite the fact that rendering in the IDE is faster, because for some stupid reason the IDE doesn't support printing carriage returns.
 
 All the setting above (including image resolution) can be changed in the Koch.cfg file. Keep in mind that the algorithm scales exponentially, meaning high iteration values paired with large split patterns can result in long calculation times.
